@@ -1,4 +1,5 @@
-Implementation of the various optimization methods in MATLAB- 'Gradient descent method', 'Momentum', 'Adagrad', 'RMSProp' and 'Adam'
+Implementation of the various optimization methods in MATLAB:
+'Gradient descent method', 'Momentum', 'Adagrad', 'RMSProp' and 'Adam'
 
 See detail: http://ruder.io/optimizing-gradient-descent
 
