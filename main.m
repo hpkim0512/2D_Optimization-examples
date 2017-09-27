@@ -1,6 +1,6 @@
 % By Hwa Pyung Kim @ CSE Yonsei
 % hpkim0512@yonsei.ac.kr
-% http://
+% https://github.com/hpkim0512/2D_Optimization-examples
 clear; close all
 addpath('./optimize_methods','./test_functions')
 %% Choose a test function, J(x,y), for optimization
