@@ -1,0 +1,1 @@
+plot3(dx,dy,dz,'r-', 'linewidth', 3)

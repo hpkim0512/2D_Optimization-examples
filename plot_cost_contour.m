@@ -1,5 +1,10 @@
 hfig=figure(1);clf;
-set(hfig, 'position', [-1500, 250, 1200, 600])
+hfig_w=1000; hfig_h=hfig_w/2;
+hfig.Position(1)=hfig.Position(1)-(hfig_w-hfig.Position(3))/2;
+hfig.Position(2)=hfig.Position(2)-(hfig_h-hfig.Position(4));
+hfig.Position(3)=hfig_w;
+hfig.Position(4)=hfig_h;
+
 subplot(1,2,1)
 surf(X,Y,Z,'Edgecolor','none');
 alpha .7
